@@ -1,0 +1,20 @@
+body {
+  font-family: Helvetica;
+  text-align: center;
+}
+
+h1  {
+  font-size: 70px;
+  font-weight: bold;
+}
+
+.nav.h4 {
+  font-size: 18px;
+}
+
+.header {
+  background-image: url("/Users/wdigby/Documents/Dev/WebDev/github/broadway/resources/images/the-flatiron-building.png");
+  background-position: center;
+  background-repeat: no-repeat;
+  color: white;
+}
