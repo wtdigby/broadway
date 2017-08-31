@@ -18,3 +18,30 @@ h1  {
   background-repeat: no-repeat;
   color: white;
 }
+
+h2 {
+  font-size: 32px;
+  font-weight: bold;
+}
+
+h3 {
+  font-size: 23px;
+  font-weight: bold;
+}
+
+.pagesplit {
+  background-image: url("/Users/wdigby/Documents/Dev/WebDev/github/broadway/resources/images/the-flatiron-building.png");
+  background-position: center;
+  color: white;
+}
+
+p {
+  font-size: 14px;
+}
+
+.footer {
+  font-size: 11px;
+  background-color: dimgray;
+  text-align: left;
+  color: white;
+}
