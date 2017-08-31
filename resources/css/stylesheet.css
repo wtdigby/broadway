@@ -45,3 +45,8 @@ p {
   text-align: left;
   color: white;
 }
+
+a {
+  color: white;
+  margin-right: 10px;
+}
